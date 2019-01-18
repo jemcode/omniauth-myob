@@ -1,6 +1,6 @@
 # Omniauth MYOB
 
-[Omniauth MYOB](https://github.com/davidlumley/omniauth-myob) is an [OmniAuth](https://github.com/intridea/omniauth) authentication strategy for [MYOB](http://developer.myob.com/api/accountright/v2/)'s  AccountRight Live API.
+[Omniauth MYOB](https://github.com/jemcode/omniauth-myob) is an [OmniAuth](https://github.com/intridea/omniauth) authentication strategy for [MYOB](http://developer.myob.com/api/essentials-accounting/)'s Essentials API.
 
 
 ## Installation
